@@ -1,4 +1,4 @@
-package fundamentos;
+package fundamentos.tiposprimitivos;
 
 public class Wrapper {
 
